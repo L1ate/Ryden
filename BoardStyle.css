@@ -1,0 +1,200 @@
+*{
+	margin: 0 ;
+	padding: 0;
+	box-sizing: border-box;
+}
+html{
+	background-color:black;
+}
+header{
+	background: url(https://bogatyr.club/uploads/posts/2023-03/1679634895_bogatyr-club-p-cherno-fioletovii-gradient-fon-vkontakte-34.jpg);
+	background-size: container;
+	background-size: 100% 100%;
+	color: white;
+	width: 100%;
+	height: 132px;
+	margin-bottom: 50px;
+}
+main{
+	height: 750px;
+	dsisplay: flex;
+}
+
+
+.name-of-project{
+	font-weight: 900;
+	text-decoration: none;
+	color: white;
+	font-size: 70px;
+	height: 95px;
+	margin-left: 60px;
+
+}
+.slogan{
+	margin-left: 60px;
+	font-size: 25px;
+}
+.header-container{
+	color:white;
+	width: 100%;
+	display:flex;
+	justify-content: space-between;
+}
+
+.header-links-container{
+	display: flex;
+}
+
+.header-links{
+	color:white;
+	text-decoration: none;
+	margin-right: 80px;
+	margin-top:50px;
+	font-size: 25px;
+}
+
+.board-container{
+	margin: 0 auto;
+	width: 60vw;
+	height: 35vw;
+	background-color: #C0C0C0;
+	display: grid;
+	grid-template-columns: repeat(200, 1fr);
+	grid-template-rows: repeat(100, 1fr);
+	margin-bottom: 42px;
+}
+
+.pixel{
+	border: 0.2px solid black;
+	background-color: white;
+}
+
+.clean-button{
+	text-decoration: none;
+	position: relative;
+	left: 46vw;
+	color: white;
+	border-radius: 35px;
+	padding: 20px;
+	font-size: 25px;
+	background: url(https://bogatyr.club/uploads/posts/2023-03/1679634895_bogatyr-club-p-cherno-fioletovii-gradient-fon-vkontakte-34.jpg);
+	background-size: container;
+	background-size: 100% 100%;
+}
+
+.tools-container{
+	height: 75.8vh;
+	width: 19.5%;
+	position: relative;
+	left: 80.4%;
+	bottom: 157vh;
+	background: url(https://bogatyr.club/uploads/posts/2023-03/1679634895_bogatyr-club-p-cherno-fioletovii-gradient-fon-vkontakte-34.jpg);
+	background-size: container;
+	background-size: 100% 100%;
+}
+
+.tools-name{
+	width: 100%;
+	text-align: center;
+	color: white;
+	margin-top: 10px;
+	border-bottom: 2px solid white;
+}
+
+.drawing-tools-container{
+	width: 100%;
+	height: 20%;
+	border-bottom: 2px solid white;
+}
+
+.eraser-img{
+	width: 50px;
+	height: 50px;
+	margin-top: 42px;
+	margin-left: 10px;
+}
+
+.pencil-img{
+	width: 40px;
+	height: 40px;
+	margin-top: 42px;
+	margin-left: 10px;
+}
+
+.colors-container{
+	width: 100%;
+	height: 20%;
+	border-bottom: 2px solid white;
+	display: flex;
+	justify-content: space-around;
+}
+
+.black{
+	background-color: black;
+}
+
+.red{
+	background-color: red;
+}
+
+.green{
+	background-color: green;
+}
+
+.purple{
+	background-color: purple;
+}
+
+.brown{
+	background-color: brown;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.orange{
+	background-color: orange;
+}
+
+.yellow{
+	background-color: yellow;
+} 	
+
+.gray{
+	background-color: gray;
+}	
+
+.FF33FF{
+	background-color: FF33FF;
+}
+
+.color{
+	width: 100%;
+	width: 20px;
+	height: 20px;
+	border: 1px solid white;
+	margin-top: 20px;
+}
+
+.layers-container{
+	height: 75.8vh;
+	width: 19.5%;
+	position: relative;
+	bottom: 81vh;
+	left: 0.2%;
+	background: url(https://bogatyr.club/uploads/posts/2023-03/1679634895_bogatyr-club-p-cherno-fioletovii-gradient-fon-vkontakte-34.jpg);
+	background-size: container;
+	background-size: 100% 100%;
+}
+
+.layers-name{
+	width: 100%;
+	text-align: center;
+	color: white;
+	margin-top: 10px;
+	border-bottom: 2px solid white;
+}
+
+
+
